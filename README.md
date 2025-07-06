@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a fullstack BApplicationt (BPM) simulator, featuring:
+This project is a fullstack Application (BPM) simulator, featuring:
 - **Backend:** C++ with Oatpp, simulating hardware programming, job control, and robot workflow via REST APIs.
 - **Frontend:** React + Material UI dashboard for real-time job control, socket status, and robot workflow monitoring.
 
