@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a fullstack Business Process Management (BPM) simulator, featuring:
+This project is a fullstack BApplicationt (BPM) simulator, featuring:
 - **Backend:** C++ with Oatpp, simulating hardware programming, job control, and robot workflow via REST APIs.
 - **Frontend:** React + Material UI dashboard for real-time job control, socket status, and robot workflow monitoring.
 
@@ -59,8 +59,8 @@ This project is a fullstack Business Process Management (BPM) simulator, featuri
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/nehabezawada/bpm.git
-   cd <bpm>
+   git clone https://github.com/nehabezawada/BPM_Application.git
+   cd <BPM_Application>
    ```
 
 2. **Initialize submodules (for Oatpp):**
